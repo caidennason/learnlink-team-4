@@ -1,24 +1,28 @@
-# README
+# PROJECTNAME
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Description
+To be updated!
 
-Things you may want to cover:
+## Installation
 
-* Ruby version
+- Start by forking and cloning this project repository to your local repository. Run the below commands:
 
-* System dependencies
+```console
+$ cd your-project-name
+$ bundle install
+$ npm install --prefix frontend
+$ rails db:create
+$ rails db:migrate db:seed
+```
 
-* Configuration
+To run the server:
+```console
+$ rails s
+```
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+In a separate terminal run the following commands to run the React front end:
+```console
+$ npm start --prefix frontend
+```
+## Application Details
+To be updated!
