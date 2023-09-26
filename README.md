@@ -25,5 +25,12 @@ In a separate terminal run the following commands to run the React front end:
 $ npm start --prefix frontend
 ```
 
-## Application Details
-To be updated!
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
