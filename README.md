@@ -24,5 +24,6 @@ In a separate terminal run the following commands to run the React front end:
 ```console
 $ npm start --prefix frontend
 ```
+
 ## Application Details
 To be updated!
