@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  content: MyString
+  answer: MyString
+  score: 1.5
+  difficult: 1
+
+two:
+  content: MyString
+  answer: MyString
+  score: 1.5
+  difficult: 1

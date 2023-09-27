@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  username: MyString
+  date_of_birth: 2023-09-26 23:08:41
+  native_language: MyString
+  learning_language: MyString
+
+two:
+  username: MyString
+  date_of_birth: 2023-09-26 23:08:41
+  native_language: MyString
+  learning_language: MyString
