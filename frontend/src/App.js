@@ -4,8 +4,14 @@ import { useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { updateUser } from './redux/userSlice';
 import { updateSettings } from './redux/settingsSlice';
-import Card from './components/Card';
-import testImg from "./images/testImage.jpg";
+import { Routes, Route } from 'react-router-dom';
+import Layout from './components/Layout';
+import Dashboard from './components/Dashboard';
+import Courses from './components/Courses';
+import Messages from './components/Messages';
+import Friends from './components/Friends';
+import Schedule from './components/Schedule';
+import Settings from './components/Settings';
 
 function App() {
   const dispatch = useDispatch();
@@ -14,6 +20,7 @@ function App() {
   // Temporary "test" user for development; delete when auth is set up
   useEffect(() => {
     const testUser = {
+      id: 0,
       username: "UnoriginalTestUsername",
       nativeLanguage: "French",
       learningLanguage: "English"
@@ -24,43 +31,28 @@ function App() {
       fontSize: null,
       fontFamily: null,
       fontSpacing: null,
-      isAutoPlayTTS: false
+      isAutoPlayTTS: false,
+      isOpenDyslexic: false
     };
 
     dispatch(updateUser(testUser));
     dispatch(updateSettings(testSettings));
   }, []);
 
-  const testCardData = {
-    imageURL: testImg,
-    nativeLanguageText: "cobaye",
-    targetLanguageText: "guinea pig"
-  };
-
-
   return (
-    <Card cardData={testCardData} />
-  )
-
-
-
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Routes>
+      <Route path="/" element={<Layout />}>
+        <Route index element={<Dashboard />} />
+        {/* <Route path="user/:user_id"> */}
+          <Route path="user/:user_id/dashboard" element={<Dashboard />} />
+          <Route path="user/:user_id/courses" element={<Courses />} />
+          <Route path="user/:user_id/messages" element={<Messages />} />
+          <Route path="user/:user_id/friends" element={<Friends />} />
+          <Route path="user/:user_id/schedule" element={<Schedule />} />
+          <Route path="user/:user_id/settings" element={<Settings />} />
+        {/* </Route> */}
+      </Route>
+    </Routes>
   );
 }
 
