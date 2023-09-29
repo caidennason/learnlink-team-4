@@ -1,10 +1,75 @@
 import React from 'react';
+import { useSelector } from 'react-redux';
+import { useAccessibilityControl } from '../hooks/useAccessibilityControl';
+import { StyledAccessibilityOption } from './styles/StyledAccessibilityOption';
 
 function Accessibility() {
+    const settings = useSelector((state) => state.settings.value);
+    const [handleChange, handleInputCheckedChange] = useAccessibilityControl();
 
     return (
         <div>
-            {`Accessibility Controls`}
+            <StyledAccessibilityOption>
+                <div>Text Size</div>
+                <div>
+                    <input
+                        type="range"
+                        min="1"
+                        max="5"
+                        value={settings.fontSize}
+                        name="fontSize"
+                        onInput={handleChange}
+                    />
+                </div>
+            </StyledAccessibilityOption>
+            <StyledAccessibilityOption>
+                <div>Word Spacing</div>
+                <div>
+                    <input
+                        type="range"
+                        min="1"
+                        max="5"
+                        value={settings.wordSpacing}
+                        name="wordSpacing"
+                        onInput={handleChange}
+                    />
+                </div>
+            </StyledAccessibilityOption>
+            <StyledAccessibilityOption>
+                <div>Letter Spacing</div>
+                <div>
+                    <input
+                        type="range"
+                        min="1"
+                        max="2"
+                        value={settings.letterSpacing}
+                        name="letterSpacing"
+                        onInput={handleChange}
+                    />
+                </div>
+            </StyledAccessibilityOption>
+            <StyledAccessibilityOption>
+                <div>Line Height</div>
+                <div>
+                    <input
+                        type="range"
+                        min="1"
+                        max="2.5"
+                        value={settings.lineHeight}
+                        name="lineHeight"
+                        onInput={handleChange}
+                    />
+                </div>
+            </StyledAccessibilityOption>
+            <StyledAccessibilityOption>
+            <label name="isOpenDyslexic">Use Open Dyslexic?</label>
+                <input 
+                  type="checkbox"
+                  value={settings.isOpenDyslexic}
+                  name="isOpenDyslexic"
+                  onChange={handleInputCheckedChange}
+                />
+            </StyledAccessibilityOption>
         </div>
     );
 }

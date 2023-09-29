@@ -11,7 +11,6 @@ export const useSpeech = () => {
         speech.voice = window.speechSynthesis.getVoices()[voice];
 
         window.speechSynthesis.speak(speech);
-        console.log("Speaking")
     }
 
     const convertSpeechToText = () => {

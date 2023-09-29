@@ -27,12 +27,12 @@ function App() {
     };
 
     const testSettings = {
-      fontColor: null,
-      fontSize: null,
-      fontFamily: null,
-      fontSpacing: null,
-      isAutoPlayTTS: false,
+      fontSize: 1,
+      letterSpacing: 1,
+      wordSpacing: 1,
+      lineHeight: "normal",
       isOpenDyslexic: false
+
     };
 
     dispatch(updateUser(testUser));
@@ -43,14 +43,12 @@ function App() {
     <Routes>
       <Route path="/" element={<Layout />}>
         <Route index element={<Dashboard />} />
-        {/* <Route path="user/:user_id"> */}
           <Route path="user/:user_id/dashboard" element={<Dashboard />} />
           <Route path="user/:user_id/courses" element={<Courses />} />
           <Route path="user/:user_id/messages" element={<Messages />} />
           <Route path="user/:user_id/friends" element={<Friends />} />
           <Route path="user/:user_id/schedule" element={<Schedule />} />
           <Route path="user/:user_id/settings" element={<Settings />} />
-        {/* </Route> */}
       </Route>
     </Routes>
   );
