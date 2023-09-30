@@ -1,0 +1,1001 @@
+,id,font_color,background_color,font_size,font_weight,font_family,letter_spacing,line_spacing,word_spacing,text_alignment,is_auto_play_tts,bionic_reading,lists with bullets,score
+0,40000001,matte black,light gray,13,regular,Open Sans,4.55,19.5,68.25,left aligned,False,default,default,89.0
+1,40000002,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,50.6
+2,40000003,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,95.1
+3,40000004,onyx,light cream,12,regular,Century Gothic,4.2,18.0,63.0,left aligned,False,default,default,94.5
+4,40000005,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,30.8
+5,40000006,green,yellow,10,regular,Century Gothic,1.88,15.0,1.84,default,True,default,default,50.6
+6,40000007,onyx,light cream,12,regular,Century Gothic,4.2,18.0,63.0,left aligned,False,default,default,93.3
+7,40000008,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,68.5
+8,40000009,charcoal,linen,24,regular,Century Gothic,2.88,36.0,3.84,default,True,default,default,97.8
+9,40000010,white,red,8,regular,Open Sans,2.55,7.5,30.25,left aligned,False,default,default,45.6
+10,40000011,midnight blue,ivory,12,regular,Lexend,1.44,21.0,1.92,left aligned,True,True,True,94.3
+11,40000012,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,88.6
+12,40000013,onyx,light cream,12,regular,Century Gothic,4.2,18.0,63.0,left aligned,False,default,default,94.7
+13,40000014,midnight blue,ivory,12,regular,Lexend,1.44,21.0,1.92,left aligned,True,True,True,97.7
+14,40000015,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,87.2
+15,40000016,white,red,8,regular,Open Sans,2.55,7.5,30.25,left aligned,False,default,default,29.7
+16,40000017,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,64.2
+17,40000018,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,95.3
+18,40000019,onyx,light cream,12,regular,Century Gothic,4.2,18.0,63.0,left aligned,False,default,default,97.0
+19,40000020,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,98.1
+20,40000021,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,99.6
+21,40000022,onyx,light cream,12,regular,Century Gothic,4.2,18.0,63.0,left aligned,False,default,default,97.2
+22,40000023,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,33.2
+23,40000024,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,97.0
+24,40000025,onyx,light cream,12,regular,Century Gothic,4.2,18.0,63.0,left aligned,False,default,default,88.6
+25,40000026,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,44.9
+26,40000027,charcoal,linen,24,regular,Century Gothic,2.88,36.0,3.84,default,True,default,default,73.9
+27,40000028,white,red,8,regular,Open Sans,2.55,7.5,30.25,left aligned,False,default,default,73.9
+28,40000029,midnight blue,ivory,12,regular,Lexend,1.44,21.0,1.92,left aligned,True,True,True,88.5
+29,40000030,green,yellow,10,regular,Century Gothic,1.88,15.0,1.84,default,True,default,default,41.8
+30,40000031,matte black,light gray,13,regular,Open Sans,4.55,19.5,68.25,left aligned,False,default,default,82.4
+31,40000032,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,90.9
+32,40000033,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,93.5
+33,40000034,white,red,8,regular,Open Sans,2.55,7.5,30.25,left aligned,False,default,default,52.6
+34,40000035,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,84.3
+35,40000036,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,95.2
+36,40000037,matte black,light gray,13,regular,Open Sans,4.55,19.5,68.25,left aligned,False,default,default,90.4
+37,40000038,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,95.2
+38,40000039,green,yellow,10,regular,Century Gothic,1.88,15.0,1.84,default,True,default,default,68.8
+39,40000040,onyx,light cream,12,regular,Century Gothic,4.2,18.0,63.0,left aligned,False,default,default,95.9
+40,40000041,midnight blue,ivory,12,regular,Lexend,1.44,21.0,1.92,left aligned,True,True,True,84.8
+41,40000042,charcoal,linen,24,regular,Century Gothic,2.88,36.0,3.84,default,True,default,default,82.7
+42,40000043,charcoal,pastel light blue,15,regular,Trebuchet,5.25,22.5,78.75,left aligned,False,default,default,88.9
+43,40000044,midnight blue,ivory,12,regular,Lexend,1.44,21.0,1.92,left aligned,True,True,True,73.6
+44,40000045,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,91.5
+45,40000046,licorice,pastel light yellow,14,regular,Tahoma,4.9,21.0,73.5,left aligned,False,default,default,82.2
+46,40000047,midnight blue,ivory,12,regular,Lexend,1.44,21.0,1.92,left aligned,True,True,True,80.7
+47,40000048,green,yellow,10,regular,Century Gothic,1.88,15.0,1.84,default,True,default,default,28.1
+48,40000049,charcoal,pastel light blue,15,regular,Trebuchet,5.25,22.5,78.75,left aligned,False,default,default,79.6
+49,40000050,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,92.5
+50,40000051,charcoal,linen,24,regular,Century Gothic,2.88,36.0,3.84,default,True,default,default,85.8
+51,40000052,white,red,8,regular,Open Sans,2.55,7.5,30.25,left aligned,False,default,default,47.7
+52,40000053,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,91.9
+53,40000054,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,88.2
+54,40000055,onyx,light cream,12,regular,Century Gothic,4.2,18.0,63.0,left aligned,False,default,default,90.3
+55,40000056,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,74.7
+56,40000057,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,95.6
+57,40000058,white,red,8,regular,Open Sans,2.55,7.5,30.25,left aligned,False,default,default,40.0
+58,40000059,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,83.4
+59,40000060,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,81.8
+60,40000061,white,red,8,regular,Open Sans,2.55,7.5,30.25,left aligned,False,default,default,35.0
+61,40000062,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,72.4
+62,40000063,green,yellow,10,regular,Century Gothic,1.88,15.0,1.84,default,True,default,default,51.1
+63,40000064,charcoal,pastel light blue,15,regular,Trebuchet,5.25,22.5,78.75,left aligned,False,default,default,73.7
+64,40000065,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,16.1
+65,40000066,charcoal,linen,24,regular,Century Gothic,2.88,36.0,3.84,default,True,default,default,81.0
+66,40000067,white,red,8,regular,Open Sans,2.55,7.5,30.25,left aligned,False,default,default,63.8
+67,40000068,midnight blue,ivory,12,regular,Lexend,1.44,21.0,1.92,left aligned,True,True,True,76.1
+68,40000069,charcoal,linen,24,regular,Century Gothic,2.88,36.0,3.84,default,True,default,default,92.8
+69,40000070,licorice,pastel light yellow,14,regular,Tahoma,4.9,21.0,73.5,left aligned,False,default,default,73.5
+70,40000071,midnight blue,ivory,12,regular,Lexend,1.44,21.0,1.92,left aligned,True,True,True,99.2
+71,40000072,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,87.3
+72,40000073,charcoal,pastel light blue,15,regular,Trebuchet,5.25,22.5,78.75,left aligned,False,default,default,98.5
+73,40000074,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,86.6
+74,40000075,green,yellow,10,regular,Century Gothic,1.88,15.0,1.84,default,True,default,default,54.6
+75,40000076,charcoal,pastel light blue,15,regular,Trebuchet,5.25,22.5,78.75,left aligned,False,default,default,67.1
+76,40000077,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,91.4
+77,40000078,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,77.2
+78,40000079,licorice,pastel light yellow,14,regular,Tahoma,4.9,21.0,73.5,left aligned,False,default,default,77.3
+79,40000080,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,88.6
+80,40000081,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,91.9
+81,40000082,white,red,8,regular,Open Sans,2.55,7.5,30.25,left aligned,False,default,default,46.8
+82,40000083,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,6.0
+83,40000084,charcoal,linen,24,regular,Century Gothic,2.88,36.0,3.84,default,True,default,default,88.8
+84,40000085,white,red,8,regular,Open Sans,2.55,7.5,30.25,left aligned,False,default,default,52.5
+85,40000086,midnight blue,ivory,12,regular,Lexend,1.44,21.0,1.92,left aligned,True,True,True,82.4
+86,40000087,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,88.5
+87,40000088,white,red,8,regular,Open Sans,2.55,7.5,30.25,left aligned,False,default,default,30.3
+88,40000089,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,40.6
+89,40000090,charcoal,linen,24,regular,Century Gothic,2.88,36.0,3.84,default,True,default,default,96.1
+90,40000091,matte black,light gray,13,regular,Open Sans,4.55,19.5,68.25,left aligned,False,default,default,83.8
+91,40000092,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,46.9
+92,40000093,charcoal,linen,24,regular,Century Gothic,2.88,36.0,3.84,default,True,default,default,73.4
+93,40000094,charcoal,pastel light blue,15,regular,Trebuchet,5.25,22.5,78.75,left aligned,False,default,default,89.4
+94,40000095,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,78.9
+95,40000096,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,89.9
+96,40000097,matte black,light gray,13,regular,Open Sans,4.55,19.5,68.25,left aligned,False,default,default,89.8
+97,40000098,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,64.2
+98,40000099,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,95.2
+99,40000100,licorice,pastel light yellow,14,regular,Tahoma,4.9,21.0,73.5,left aligned,False,default,default,67.0
+100,40000101,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,95.9
+101,40000102,charcoal,linen,24,regular,Century Gothic,2.88,36.0,3.84,default,True,default,default,78.3
+102,40000103,charcoal,pastel light blue,15,regular,Trebuchet,5.25,22.5,78.75,left aligned,False,default,default,89.8
+103,40000104,midnight blue,ivory,12,regular,Lexend,1.44,21.0,1.92,left aligned,True,True,True,98.8
+104,40000105,charcoal,linen,24,regular,Century Gothic,2.88,36.0,3.84,default,True,default,default,77.7
+105,40000106,licorice,pastel light yellow,14,regular,Tahoma,4.9,21.0,73.5,left aligned,False,default,default,81.0
+106,40000107,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,86.3
+107,40000108,green,yellow,10,regular,Century Gothic,1.88,15.0,1.84,default,True,default,default,47.8
+108,40000109,charcoal,pastel light blue,15,regular,Trebuchet,5.25,22.5,78.75,left aligned,False,default,default,76.9
+109,40000110,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,99.2
+110,40000111,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,86.8
+111,40000112,licorice,pastel light yellow,14,regular,Tahoma,4.9,21.0,73.5,left aligned,False,default,default,85.1
+112,40000113,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,96.1
+113,40000114,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,91.6
+114,40000115,charcoal,pastel light blue,15,regular,Trebuchet,5.25,22.5,78.75,left aligned,False,default,default,92.0
+115,40000116,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,92.9
+116,40000117,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,96.5
+117,40000118,white,red,8,regular,Open Sans,2.55,7.5,30.25,left aligned,False,default,default,53.1
+118,40000119,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,98.2
+119,40000120,green,yellow,10,regular,Century Gothic,1.88,15.0,1.84,default,True,default,default,52.6
+120,40000121,charcoal,pastel light blue,15,regular,Trebuchet,5.25,22.5,78.75,left aligned,False,default,default,89.6
+121,40000122,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,84.2
+122,40000123,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,99.3
+123,40000124,charcoal,pastel light blue,15,regular,Trebuchet,5.25,22.5,78.75,left aligned,False,default,default,87.6
+124,40000125,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,93.2
+125,40000126,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,90.3
+126,40000127,licorice,pastel light yellow,14,regular,Tahoma,4.9,21.0,73.5,left aligned,False,default,default,69.6
+127,40000128,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,91.7
+128,40000129,green,yellow,10,regular,Century Gothic,1.88,15.0,1.84,default,True,default,default,51.2
+129,40000130,licorice,pastel light yellow,14,regular,Tahoma,4.9,21.0,73.5,left aligned,False,default,default,77.2
+130,40000131,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,95.3
+131,40000132,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,93.2
+132,40000133,white,red,8,regular,Open Sans,2.55,7.5,30.25,left aligned,False,default,default,33.5
+133,40000134,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,22.9
+134,40000135,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,94.7
+135,40000136,onyx,light cream,12,regular,Century Gothic,4.2,18.0,63.0,left aligned,False,default,default,95.0
+136,40000137,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,94.8
+137,40000138,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,91.2
+138,40000139,charcoal,pastel light blue,15,regular,Trebuchet,5.25,22.5,78.75,left aligned,False,default,default,87.8
+139,40000140,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,82.5
+140,40000141,charcoal,linen,24,regular,Century Gothic,2.88,36.0,3.84,default,True,default,default,94.8
+141,40000142,matte black,light gray,13,regular,Open Sans,4.55,19.5,68.25,left aligned,False,default,default,85.0
+142,40000143,midnight blue,ivory,12,regular,Lexend,1.44,21.0,1.92,left aligned,True,True,True,86.6
+143,40000144,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,98.4
+144,40000145,white,red,8,regular,Open Sans,2.55,7.5,30.25,left aligned,False,default,default,62.9
+145,40000146,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,49.7
+146,40000147,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,88.1
+147,40000148,white,red,8,regular,Open Sans,2.55,7.5,30.25,left aligned,False,default,default,71.0
+148,40000149,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,96.3
+149,40000150,green,yellow,10,regular,Century Gothic,1.88,15.0,1.84,default,True,default,default,90.3
+150,40000151,licorice,pastel light yellow,14,regular,Tahoma,4.9,21.0,73.5,left aligned,False,default,default,74.8
+151,40000152,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,93.8
+152,40000153,charcoal,linen,24,regular,Century Gothic,2.88,36.0,3.84,default,True,default,default,74.7
+153,40000154,matte black,light gray,13,regular,Open Sans,4.55,19.5,68.25,left aligned,False,default,default,90.4
+154,40000155,midnight blue,ivory,12,regular,Lexend,1.44,21.0,1.92,left aligned,True,True,True,77.4
+155,40000156,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,95.6
+156,40000157,charcoal,pastel light blue,15,regular,Trebuchet,5.25,22.5,78.75,left aligned,False,default,default,91.9
+157,40000158,midnight blue,ivory,12,regular,Lexend,1.44,21.0,1.92,left aligned,True,True,True,89.5
+158,40000159,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,85.9
+159,40000160,onyx,light cream,12,regular,Century Gothic,4.2,18.0,63.0,left aligned,False,default,default,87.1
+160,40000161,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,88.9
+161,40000162,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,93.5
+162,40000163,white,red,8,regular,Open Sans,2.55,7.5,30.25,left aligned,False,default,default,58.8
+163,40000164,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,65.1
+164,40000165,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,99.2
+165,40000166,charcoal,pastel light blue,15,regular,Trebuchet,5.25,22.5,78.75,left aligned,False,default,default,93.4
+166,40000167,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,1.2
+167,40000168,green,yellow,10,regular,Century Gothic,1.88,15.0,1.84,default,True,default,default,39.7
+168,40000169,white,red,8,regular,Open Sans,2.55,7.5,30.25,left aligned,False,default,default,59.2
+169,40000170,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,75.1
+170,40000171,charcoal,linen,24,regular,Century Gothic,2.88,36.0,3.84,default,True,default,default,84.7
+171,40000172,matte black,light gray,13,regular,Open Sans,4.55,19.5,68.25,left aligned,False,default,default,73.1
+172,40000173,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,76.1
+173,40000174,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,68.5
+174,40000175,white,red,8,regular,Open Sans,2.55,7.5,30.25,left aligned,False,default,default,62.3
+175,40000176,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,90.6
+176,40000177,green,yellow,10,regular,Century Gothic,1.88,15.0,1.84,default,True,default,default,39.1
+177,40000178,charcoal,pastel light blue,15,regular,Trebuchet,5.25,22.5,78.75,left aligned,False,default,default,96.1
+178,40000179,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,89.1
+179,40000180,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,85.3
+180,40000181,white,red,8,regular,Open Sans,2.55,7.5,30.25,left aligned,False,default,default,35.4
+181,40000182,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,87.0
+182,40000183,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,89.6
+183,40000184,licorice,pastel light yellow,14,regular,Tahoma,4.9,21.0,73.5,left aligned,False,default,default,76.4
+184,40000185,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,75.5
+185,40000186,charcoal,linen,24,regular,Century Gothic,2.88,36.0,3.84,default,True,default,default,86.8
+186,40000187,white,red,8,regular,Open Sans,2.55,7.5,30.25,left aligned,False,default,default,51.3
+187,40000188,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,86.3
+188,40000189,charcoal,linen,24,regular,Century Gothic,2.88,36.0,3.84,default,True,default,default,89.7
+189,40000190,white,red,8,regular,Open Sans,2.55,7.5,30.25,left aligned,False,default,default,42.7
+190,40000191,midnight blue,ivory,12,regular,Lexend,1.44,21.0,1.92,left aligned,True,True,True,85.7
+191,40000192,charcoal,linen,24,regular,Century Gothic,2.88,36.0,3.84,default,True,default,default,76.4
+192,40000193,matte black,light gray,13,regular,Open Sans,4.55,19.5,68.25,left aligned,False,default,default,79.9
+193,40000194,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,77.7
+194,40000195,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,96.6
+195,40000196,charcoal,pastel light blue,15,regular,Trebuchet,5.25,22.5,78.75,left aligned,False,default,default,83.9
+196,40000197,midnight blue,ivory,12,regular,Lexend,1.44,21.0,1.92,left aligned,True,True,True,81.3
+197,40000198,charcoal,linen,24,regular,Century Gothic,2.88,36.0,3.84,default,True,default,default,77.9
+198,40000199,licorice,pastel light yellow,14,regular,Tahoma,4.9,21.0,73.5,left aligned,False,default,default,72.1
+199,40000200,midnight blue,ivory,12,regular,Lexend,1.44,21.0,1.92,left aligned,True,True,True,86.6
+200,40000201,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,83.6
+201,40000202,matte black,light gray,13,regular,Open Sans,4.55,19.5,68.25,left aligned,False,default,default,92.2
+202,40000203,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,28.0
+203,40000204,green,yellow,10,regular,Century Gothic,1.88,15.0,1.84,default,True,default,default,31.3
+204,40000205,charcoal,pastel light blue,15,regular,Trebuchet,5.25,22.5,78.75,left aligned,False,default,default,65.1
+205,40000206,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,6.3
+206,40000207,green,yellow,10,regular,Century Gothic,1.88,15.0,1.84,default,True,default,default,52.0
+207,40000208,charcoal,pastel light blue,15,regular,Trebuchet,5.25,22.5,78.75,left aligned,False,default,default,83.1
+208,40000209,midnight blue,ivory,12,regular,Lexend,1.44,21.0,1.92,left aligned,True,True,True,88.8
+209,40000210,green,yellow,10,regular,Century Gothic,1.88,15.0,1.84,default,True,default,default,63.9
+210,40000211,charcoal,pastel light blue,15,regular,Trebuchet,5.25,22.5,78.75,left aligned,False,default,default,99.3
+211,40000212,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,76.7
+212,40000213,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,91.5
+213,40000214,matte black,light gray,13,regular,Open Sans,4.55,19.5,68.25,left aligned,False,default,default,82.3
+214,40000215,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,2.1
+215,40000216,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,96.8
+216,40000217,charcoal,pastel light blue,15,regular,Trebuchet,5.25,22.5,78.75,left aligned,False,default,default,79.7
+217,40000218,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,28.3
+218,40000219,charcoal,linen,24,regular,Century Gothic,2.88,36.0,3.84,default,True,default,default,86.2
+219,40000220,onyx,light cream,12,regular,Century Gothic,4.2,18.0,63.0,left aligned,False,default,default,97.6
+220,40000221,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,44.2
+221,40000222,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,98.1
+222,40000223,matte black,light gray,13,regular,Open Sans,4.55,19.5,68.25,left aligned,False,default,default,82.6
+223,40000224,midnight blue,ivory,12,regular,Lexend,1.44,21.0,1.92,left aligned,True,True,True,94.4
+224,40000225,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,89.9
+225,40000226,licorice,pastel light yellow,14,regular,Tahoma,4.9,21.0,73.5,left aligned,False,default,default,88.4
+226,40000227,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,96.0
+227,40000228,green,yellow,10,regular,Century Gothic,1.88,15.0,1.84,default,True,default,default,33.2
+228,40000229,matte black,light gray,13,regular,Open Sans,4.55,19.5,68.25,left aligned,False,default,default,98.3
+229,40000230,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,89.7
+230,40000231,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,91.0
+231,40000232,licorice,pastel light yellow,14,regular,Tahoma,4.9,21.0,73.5,left aligned,False,default,default,76.0
+232,40000233,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,94.2
+233,40000234,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,84.9
+234,40000235,white,red,8,regular,Open Sans,2.55,7.5,30.25,left aligned,False,default,default,37.8
+235,40000236,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,93.2
+236,40000237,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,85.2
+237,40000238,charcoal,pastel light blue,15,regular,Trebuchet,5.25,22.5,78.75,left aligned,False,default,default,83.3
+238,40000239,midnight blue,ivory,12,regular,Lexend,1.44,21.0,1.92,left aligned,True,True,True,82.7
+239,40000240,charcoal,linen,24,regular,Century Gothic,2.88,36.0,3.84,default,True,default,default,86.2
+240,40000241,onyx,light cream,12,regular,Century Gothic,4.2,18.0,63.0,left aligned,False,default,default,98.0
+241,40000242,midnight blue,ivory,12,regular,Lexend,1.44,21.0,1.92,left aligned,True,True,True,77.1
+242,40000243,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,94.2
+243,40000244,matte black,light gray,13,regular,Open Sans,4.55,19.5,68.25,left aligned,False,default,default,77.8
+244,40000245,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,50.7
+245,40000246,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,92.8
+246,40000247,charcoal,pastel light blue,15,regular,Trebuchet,5.25,22.5,78.75,left aligned,False,default,default,85.7
+247,40000248,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,75.5
+248,40000249,green,yellow,10,regular,Century Gothic,1.88,15.0,1.84,default,True,default,default,29.2
+249,40000250,charcoal,pastel light blue,15,regular,Trebuchet,5.25,22.5,78.75,left aligned,False,default,default,83.9
+250,40000251,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,80.7
+251,40000252,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,98.1
+252,40000253,white,red,8,regular,Open Sans,2.55,7.5,30.25,left aligned,False,default,default,60.8
+253,40000254,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,90.2
+254,40000255,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,98.5
+255,40000256,licorice,pastel light yellow,14,regular,Tahoma,4.9,21.0,73.5,left aligned,False,default,default,73.1
+256,40000257,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,85.4
+257,40000258,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,94.9
+258,40000259,charcoal,pastel light blue,15,regular,Trebuchet,5.25,22.5,78.75,left aligned,False,default,default,97.7
+259,40000260,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,91.6
+260,40000261,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,81.7
+261,40000262,onyx,light cream,12,regular,Century Gothic,4.2,18.0,63.0,left aligned,False,default,default,88.1
+262,40000263,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,63.4
+263,40000264,charcoal,linen,24,regular,Century Gothic,2.88,36.0,3.84,default,True,default,default,96.1
+264,40000265,white,red,8,regular,Open Sans,2.55,7.5,30.25,left aligned,False,default,default,56.6
+265,40000266,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,97.1
+266,40000267,green,yellow,10,regular,Century Gothic,1.88,15.0,1.84,default,True,default,default,36.4
+267,40000268,matte black,light gray,13,regular,Open Sans,4.55,19.5,68.25,left aligned,False,default,default,89.8
+268,40000269,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,6.0
+269,40000270,charcoal,linen,24,regular,Century Gothic,2.88,36.0,3.84,default,True,default,default,83.8
+270,40000271,white,red,8,regular,Open Sans,2.55,7.5,30.25,left aligned,False,default,default,80.0
+271,40000272,midnight blue,ivory,12,regular,Lexend,1.44,21.0,1.92,left aligned,True,True,True,96.4
+272,40000273,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,84.3
+273,40000274,matte black,light gray,13,regular,Open Sans,4.55,19.5,68.25,left aligned,False,default,default,98.7
+274,40000275,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,77.1
+275,40000276,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,99.2
+276,40000277,licorice,pastel light yellow,14,regular,Tahoma,4.9,21.0,73.5,left aligned,False,default,default,87.8
+277,40000278,midnight blue,ivory,12,regular,Lexend,1.44,21.0,1.92,left aligned,True,True,True,94.5
+278,40000279,charcoal,linen,24,regular,Century Gothic,2.88,36.0,3.84,default,True,default,default,87.2
+279,40000280,onyx,light cream,12,regular,Century Gothic,4.2,18.0,63.0,left aligned,False,default,default,98.1
+280,40000281,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,79.0
+281,40000282,charcoal,linen,24,regular,Century Gothic,2.88,36.0,3.84,default,True,default,default,93.1
+282,40000283,charcoal,pastel light blue,15,regular,Trebuchet,5.25,22.5,78.75,left aligned,False,default,default,86.9
+283,40000284,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,62.5
+284,40000285,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,92.3
+285,40000286,charcoal,pastel light blue,15,regular,Trebuchet,5.25,22.5,78.75,left aligned,False,default,default,74.1
+286,40000287,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,98.8
+287,40000288,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,87.5
+288,40000289,licorice,pastel light yellow,14,regular,Tahoma,4.9,21.0,73.5,left aligned,False,default,default,80.0
+289,40000290,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,87.4
+290,40000291,charcoal,linen,24,regular,Century Gothic,2.88,36.0,3.84,default,True,default,default,81.0
+291,40000292,matte black,light gray,13,regular,Open Sans,4.55,19.5,68.25,left aligned,False,default,default,78.0
+292,40000293,midnight blue,ivory,12,regular,Lexend,1.44,21.0,1.92,left aligned,True,True,True,95.0
+293,40000294,charcoal,linen,24,regular,Century Gothic,2.88,36.0,3.84,default,True,default,default,75.7
+294,40000295,charcoal,pastel light blue,15,regular,Trebuchet,5.25,22.5,78.75,left aligned,False,default,default,84.4
+295,40000296,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,18.0
+296,40000297,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,76.1
+297,40000298,charcoal,pastel light blue,15,regular,Trebuchet,5.25,22.5,78.75,left aligned,False,default,default,93.6
+298,40000299,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,98.3
+299,40000300,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,98.7
+300,40000301,white,red,8,regular,Open Sans,2.55,7.5,30.25,left aligned,False,default,default,69.8
+301,40000302,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,96.9
+302,40000303,charcoal,linen,24,regular,Century Gothic,2.88,36.0,3.84,default,True,default,default,80.1
+303,40000304,matte black,light gray,13,regular,Open Sans,4.55,19.5,68.25,left aligned,False,default,default,75.1
+304,40000305,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,81.9
+305,40000306,charcoal,linen,24,regular,Century Gothic,2.88,36.0,3.84,default,True,default,default,77.2
+306,40000307,matte black,light gray,13,regular,Open Sans,4.55,19.5,68.25,left aligned,False,default,default,77.8
+307,40000308,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,86.5
+308,40000309,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,96.4
+309,40000310,white,red,8,regular,Open Sans,2.55,7.5,30.25,left aligned,False,default,default,16.1
+310,40000311,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,55.2
+311,40000312,green,yellow,10,regular,Century Gothic,1.88,15.0,1.84,default,True,default,default,29.3
+312,40000313,onyx,light cream,12,regular,Century Gothic,4.2,18.0,63.0,left aligned,False,default,default,87.5
+313,40000314,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,71.2
+314,40000315,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,95.8
+315,40000316,matte black,light gray,13,regular,Open Sans,4.55,19.5,68.25,left aligned,False,default,default,81.8
+316,40000317,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,93.1
+317,40000318,green,yellow,10,regular,Century Gothic,1.88,15.0,1.84,default,True,default,default,47.2
+318,40000319,matte black,light gray,13,regular,Open Sans,4.55,19.5,68.25,left aligned,False,default,default,95.9
+319,40000320,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,96.4
+320,40000321,charcoal,linen,24,regular,Century Gothic,2.88,36.0,3.84,default,True,default,default,78.3
+321,40000322,onyx,light cream,12,regular,Century Gothic,4.2,18.0,63.0,left aligned,False,default,default,88.9
+322,40000323,midnight blue,ivory,12,regular,Lexend,1.44,21.0,1.92,left aligned,True,True,True,73.2
+323,40000324,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,83.4
+324,40000325,white,red,8,regular,Open Sans,2.55,7.5,30.25,left aligned,False,default,default,40.5
+325,40000326,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,32.9
+326,40000327,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,95.9
+327,40000328,charcoal,pastel light blue,15,regular,Trebuchet,5.25,22.5,78.75,left aligned,False,default,default,88.8
+328,40000329,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,91.4
+329,40000330,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,85.3
+330,40000331,licorice,pastel light yellow,14,regular,Tahoma,4.9,21.0,73.5,left aligned,False,default,default,75.4
+331,40000332,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,97.1
+332,40000333,green,yellow,10,regular,Century Gothic,1.88,15.0,1.84,default,True,default,default,21.4
+333,40000334,charcoal,pastel light blue,15,regular,Trebuchet,5.25,22.5,78.75,left aligned,False,default,default,88.9
+334,40000335,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,97.0
+335,40000336,green,yellow,10,regular,Century Gothic,1.88,15.0,1.84,default,True,default,default,56.5
+336,40000337,white,red,8,regular,Open Sans,2.55,7.5,30.25,left aligned,False,default,default,40.3
+337,40000338,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,81.1
+338,40000339,green,yellow,10,regular,Century Gothic,1.88,15.0,1.84,default,True,default,default,48.3
+339,40000340,matte black,light gray,13,regular,Open Sans,4.55,19.5,68.25,left aligned,False,default,default,82.6
+340,40000341,midnight blue,ivory,12,regular,Lexend,1.44,21.0,1.92,left aligned,True,True,True,85.1
+341,40000342,green,yellow,10,regular,Century Gothic,1.88,15.0,1.84,default,True,default,default,32.3
+342,40000343,charcoal,pastel light blue,15,regular,Trebuchet,5.25,22.5,78.75,left aligned,False,default,default,83.2
+343,40000344,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,67.7
+344,40000345,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,94.5
+345,40000346,onyx,light cream,12,regular,Century Gothic,4.2,18.0,63.0,left aligned,False,default,default,87.4
+346,40000347,midnight blue,ivory,12,regular,Lexend,1.44,21.0,1.92,left aligned,True,True,True,88.4
+347,40000348,green,yellow,10,regular,Century Gothic,1.88,15.0,1.84,default,True,default,default,37.5
+348,40000349,licorice,pastel light yellow,14,regular,Tahoma,4.9,21.0,73.5,left aligned,False,default,default,81.0
+349,40000350,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,97.6
+350,40000351,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,95.5
+351,40000352,charcoal,pastel light blue,15,regular,Trebuchet,5.25,22.5,78.75,left aligned,False,default,default,66.6
+352,40000353,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,93.2
+353,40000354,green,yellow,10,regular,Century Gothic,1.88,15.0,1.84,default,True,default,default,45.4
+354,40000355,licorice,pastel light yellow,14,regular,Tahoma,4.9,21.0,73.5,left aligned,False,default,default,80.5
+355,40000356,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,95.9
+356,40000357,green,yellow,10,regular,Century Gothic,1.88,15.0,1.84,default,True,default,default,36.2
+357,40000358,matte black,light gray,13,regular,Open Sans,4.55,19.5,68.25,left aligned,False,default,default,77.7
+358,40000359,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,81.6
+359,40000360,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,98.6
+360,40000361,charcoal,pastel light blue,15,regular,Trebuchet,5.25,22.5,78.75,left aligned,False,default,default,75.6
+361,40000362,midnight blue,ivory,12,regular,Lexend,1.44,21.0,1.92,left aligned,True,True,True,97.1
+362,40000363,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,88.9
+363,40000364,charcoal,pastel light blue,15,regular,Trebuchet,5.25,22.5,78.75,left aligned,False,default,default,83.1
+364,40000365,midnight blue,ivory,12,regular,Lexend,1.44,21.0,1.92,left aligned,True,True,True,96.5
+365,40000366,green,yellow,10,regular,Century Gothic,1.88,15.0,1.84,default,True,default,default,43.5
+366,40000367,matte black,light gray,13,regular,Open Sans,4.55,19.5,68.25,left aligned,False,default,default,92.8
+367,40000368,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,81.7
+368,40000369,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,97.1
+369,40000370,charcoal,pastel light blue,15,regular,Trebuchet,5.25,22.5,78.75,left aligned,False,default,default,88.7
+370,40000371,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,49.3
+371,40000372,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,84.0
+372,40000373,white,red,8,regular,Open Sans,2.55,7.5,30.25,left aligned,False,default,default,60.4
+373,40000374,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,44.7
+374,40000375,green,yellow,10,regular,Century Gothic,1.88,15.0,1.84,default,True,default,default,34.5
+375,40000376,white,red,8,regular,Open Sans,2.55,7.5,30.25,left aligned,False,default,default,35.1
+376,40000377,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,57.6
+377,40000378,charcoal,linen,24,regular,Century Gothic,2.88,36.0,3.84,default,True,default,default,97.5
+378,40000379,matte black,light gray,13,regular,Open Sans,4.55,19.5,68.25,left aligned,False,default,default,87.1
+379,40000380,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,41.6
+380,40000381,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,95.9
+381,40000382,white,red,8,regular,Open Sans,2.55,7.5,30.25,left aligned,False,default,default,48.4
+382,40000383,midnight blue,ivory,12,regular,Lexend,1.44,21.0,1.92,left aligned,True,True,True,98.4
+383,40000384,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,94.8
+384,40000385,onyx,light cream,12,regular,Century Gothic,4.2,18.0,63.0,left aligned,False,default,default,97.5
+385,40000386,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,95.3
+386,40000387,charcoal,linen,24,regular,Century Gothic,2.88,36.0,3.84,default,True,default,default,92.1
+387,40000388,charcoal,pastel light blue,15,regular,Trebuchet,5.25,22.5,78.75,left aligned,False,default,default,74.6
+388,40000389,midnight blue,ivory,12,regular,Lexend,1.44,21.0,1.92,left aligned,True,True,True,90.7
+389,40000390,charcoal,linen,24,regular,Century Gothic,2.88,36.0,3.84,default,True,default,default,81.7
+390,40000391,white,red,8,regular,Open Sans,2.55,7.5,30.25,left aligned,False,default,default,27.1
+391,40000392,midnight blue,ivory,12,regular,Lexend,1.44,21.0,1.92,left aligned,True,True,True,86.3
+392,40000393,green,yellow,10,regular,Century Gothic,1.88,15.0,1.84,default,True,default,default,35.3
+393,40000394,white,red,8,regular,Open Sans,2.55,7.5,30.25,left aligned,False,default,default,65.5
+394,40000395,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,66.3
+395,40000396,green,yellow,10,regular,Century Gothic,1.88,15.0,1.84,default,True,default,default,71.1
+396,40000397,charcoal,pastel light blue,15,regular,Trebuchet,5.25,22.5,78.75,left aligned,False,default,default,80.6
+397,40000398,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,92.4
+398,40000399,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,84.0
+399,40000400,charcoal,pastel light blue,15,regular,Trebuchet,5.25,22.5,78.75,left aligned,False,default,default,75.6
+400,40000401,midnight blue,ivory,12,regular,Lexend,1.44,21.0,1.92,left aligned,True,True,True,85.8
+401,40000402,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,97.8
+402,40000403,charcoal,pastel light blue,15,regular,Trebuchet,5.25,22.5,78.75,left aligned,False,default,default,71.8
+403,40000404,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,96.9
+404,40000405,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,98.1
+405,40000406,matte black,light gray,13,regular,Open Sans,4.55,19.5,68.25,left aligned,False,default,default,87.0
+406,40000407,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,79.9
+407,40000408,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,81.4
+408,40000409,licorice,pastel light yellow,14,regular,Tahoma,4.9,21.0,73.5,left aligned,False,default,default,81.5
+409,40000410,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,3.2
+410,40000411,charcoal,linen,24,regular,Century Gothic,2.88,36.0,3.84,default,True,default,default,63.2
+411,40000412,white,red,8,regular,Open Sans,2.55,7.5,30.25,left aligned,False,default,default,47.3
+412,40000413,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,6.4
+413,40000414,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,91.0
+414,40000415,white,red,8,regular,Open Sans,2.55,7.5,30.25,left aligned,False,default,default,38.5
+415,40000416,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,91.0
+416,40000417,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,88.9
+417,40000418,matte black,light gray,13,regular,Open Sans,4.55,19.5,68.25,left aligned,False,default,default,66.8
+418,40000419,midnight blue,ivory,12,regular,Lexend,1.44,21.0,1.92,left aligned,True,True,True,77.0
+419,40000420,charcoal,linen,24,regular,Century Gothic,2.88,36.0,3.84,default,True,default,default,86.9
+420,40000421,white,red,8,regular,Open Sans,2.55,7.5,30.25,left aligned,False,default,default,79.1
+421,40000422,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,93.0
+422,40000423,green,yellow,10,regular,Century Gothic,1.88,15.0,1.84,default,True,default,default,41.6
+423,40000424,matte black,light gray,13,regular,Open Sans,4.55,19.5,68.25,left aligned,False,default,default,79.1
+424,40000425,midnight blue,ivory,12,regular,Lexend,1.44,21.0,1.92,left aligned,True,True,True,90.9
+425,40000426,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,93.9
+426,40000427,charcoal,pastel light blue,15,regular,Trebuchet,5.25,22.5,78.75,left aligned,False,default,default,99.3
+427,40000428,midnight blue,ivory,12,regular,Lexend,1.44,21.0,1.92,left aligned,True,True,True,74.0
+428,40000429,charcoal,linen,24,regular,Century Gothic,2.88,36.0,3.84,default,True,default,default,91.2
+429,40000430,white,red,8,regular,Open Sans,2.55,7.5,30.25,left aligned,False,default,default,41.6
+430,40000431,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,77.5
+431,40000432,charcoal,linen,24,regular,Century Gothic,2.88,36.0,3.84,default,True,default,default,88.0
+432,40000433,charcoal,pastel light blue,15,regular,Trebuchet,5.25,22.5,78.75,left aligned,False,default,default,77.6
+433,40000434,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,46.8
+434,40000435,charcoal,linen,24,regular,Century Gothic,2.88,36.0,3.84,default,True,default,default,84.6
+435,40000436,onyx,light cream,12,regular,Century Gothic,4.2,18.0,63.0,left aligned,False,default,default,93.2
+436,40000437,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,39.2
+437,40000438,green,yellow,10,regular,Century Gothic,1.88,15.0,1.84,default,True,default,default,36.6
+438,40000439,matte black,light gray,13,regular,Open Sans,4.55,19.5,68.25,left aligned,False,default,default,92.4
+439,40000440,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,93.1
+440,40000441,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,84.9
+441,40000442,licorice,pastel light yellow,14,regular,Tahoma,4.9,21.0,73.5,left aligned,False,default,default,84.7
+442,40000443,midnight blue,ivory,12,regular,Lexend,1.44,21.0,1.92,left aligned,True,True,True,97.7
+443,40000444,charcoal,linen,24,regular,Century Gothic,2.88,36.0,3.84,default,True,default,default,67.8
+444,40000445,onyx,light cream,12,regular,Century Gothic,4.2,18.0,63.0,left aligned,False,default,default,90.7
+445,40000446,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,92.3
+446,40000447,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,97.4
+447,40000448,matte black,light gray,13,regular,Open Sans,4.55,19.5,68.25,left aligned,False,default,default,99.5
+448,40000449,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,84.1
+449,40000450,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,97.1
+450,40000451,matte black,light gray,13,regular,Open Sans,4.55,19.5,68.25,left aligned,False,default,default,83.2
+451,40000452,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,99.9
+452,40000453,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,81.9
+453,40000454,onyx,light cream,12,regular,Century Gothic,4.2,18.0,63.0,left aligned,False,default,default,88.3
+454,40000455,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,79.2
+455,40000456,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,90.7
+456,40000457,white,red,8,regular,Open Sans,2.55,7.5,30.25,left aligned,False,default,default,57.4
+457,40000458,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,5.5
+458,40000459,green,yellow,10,regular,Century Gothic,1.88,15.0,1.84,default,True,default,default,54.2
+459,40000460,matte black,light gray,13,regular,Open Sans,4.55,19.5,68.25,left aligned,False,default,default,96.5
+460,40000461,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,91.3
+461,40000462,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,92.6
+462,40000463,matte black,light gray,13,regular,Open Sans,4.55,19.5,68.25,left aligned,False,default,default,85.2
+463,40000464,midnight blue,ivory,12,regular,Lexend,1.44,21.0,1.92,left aligned,True,True,True,93.3
+464,40000465,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,90.8
+465,40000466,charcoal,pastel light blue,15,regular,Trebuchet,5.25,22.5,78.75,left aligned,False,default,default,75.1
+466,40000467,midnight blue,ivory,12,regular,Lexend,1.44,21.0,1.92,left aligned,True,True,True,86.9
+467,40000468,charcoal,linen,24,regular,Century Gothic,2.88,36.0,3.84,default,True,default,default,79.3
+468,40000469,charcoal,pastel light blue,15,regular,Trebuchet,5.25,22.5,78.75,left aligned,False,default,default,92.8
+469,40000470,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,77.3
+470,40000471,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,88.0
+471,40000472,matte black,light gray,13,regular,Open Sans,4.55,19.5,68.25,left aligned,False,default,default,98.2
+472,40000473,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,44.5
+473,40000474,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,98.1
+474,40000475,charcoal,pastel light blue,15,regular,Trebuchet,5.25,22.5,78.75,left aligned,False,default,default,96.6
+475,40000476,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,53.5
+476,40000477,charcoal,linen,24,regular,Century Gothic,2.88,36.0,3.84,default,True,default,default,88.9
+477,40000478,charcoal,pastel light blue,15,regular,Trebuchet,5.25,22.5,78.75,left aligned,False,default,default,98.0
+478,40000479,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,99.6
+479,40000480,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,86.9
+480,40000481,matte black,light gray,13,regular,Open Sans,4.55,19.5,68.25,left aligned,False,default,default,74.4
+481,40000482,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,79.0
+482,40000483,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,89.3
+483,40000484,white,red,8,regular,Open Sans,2.55,7.5,30.25,left aligned,False,default,default,46.9
+484,40000485,midnight blue,ivory,12,regular,Lexend,1.44,21.0,1.92,left aligned,True,True,True,77.8
+485,40000486,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,95.1
+486,40000487,matte black,light gray,13,regular,Open Sans,4.55,19.5,68.25,left aligned,False,default,default,85.4
+487,40000488,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,69.0
+488,40000489,charcoal,linen,24,regular,Century Gothic,2.88,36.0,3.84,default,True,default,default,98.0
+489,40000490,licorice,pastel light yellow,14,regular,Tahoma,4.9,21.0,73.5,left aligned,False,default,default,80.6
+490,40000491,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,21.4
+491,40000492,charcoal,linen,24,regular,Century Gothic,2.88,36.0,3.84,default,True,default,default,86.3
+492,40000493,charcoal,pastel light blue,15,regular,Trebuchet,5.25,22.5,78.75,left aligned,False,default,default,94.8
+493,40000494,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,93.0
+494,40000495,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,94.6
+495,40000496,matte black,light gray,13,regular,Open Sans,4.55,19.5,68.25,left aligned,False,default,default,82.6
+496,40000497,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,83.1
+497,40000498,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,92.9
+498,40000499,white,red,8,regular,Open Sans,2.55,7.5,30.25,left aligned,False,default,default,39.8
+499,40000500,midnight blue,ivory,12,regular,Lexend,1.44,21.0,1.92,left aligned,True,True,True,88.1
+500,40000501,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,83.6
+501,40000502,charcoal,pastel light blue,15,regular,Trebuchet,5.25,22.5,78.75,left aligned,False,default,default,81.1
+502,40000503,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,37.2
+503,40000504,charcoal,linen,24,regular,Century Gothic,2.88,36.0,3.84,default,True,default,default,90.3
+504,40000505,charcoal,pastel light blue,15,regular,Trebuchet,5.25,22.5,78.75,left aligned,False,default,default,80.1
+505,40000506,midnight blue,ivory,12,regular,Lexend,1.44,21.0,1.92,left aligned,True,True,True,97.6
+506,40000507,green,yellow,10,regular,Century Gothic,1.88,15.0,1.84,default,True,default,default,61.4
+507,40000508,white,red,8,regular,Open Sans,2.55,7.5,30.25,left aligned,False,default,default,25.2
+508,40000509,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,20.0
+509,40000510,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,93.4
+510,40000511,charcoal,pastel light blue,15,regular,Trebuchet,5.25,22.5,78.75,left aligned,False,default,default,72.0
+511,40000512,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,26.1
+512,40000513,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,96.6
+513,40000514,charcoal,pastel light blue,15,regular,Trebuchet,5.25,22.5,78.75,left aligned,False,default,default,88.5
+514,40000515,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,43.7
+515,40000516,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,92.5
+516,40000517,charcoal,pastel light blue,15,regular,Trebuchet,5.25,22.5,78.75,left aligned,False,default,default,76.3
+517,40000518,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,25.7
+518,40000519,green,yellow,10,regular,Century Gothic,1.88,15.0,1.84,default,True,default,default,51.9
+519,40000520,matte black,light gray,13,regular,Open Sans,4.55,19.5,68.25,left aligned,False,default,default,96.4
+520,40000521,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,94.5
+521,40000522,green,yellow,10,regular,Century Gothic,1.88,15.0,1.84,default,True,default,default,36.4
+522,40000523,onyx,light cream,12,regular,Century Gothic,4.2,18.0,63.0,left aligned,False,default,default,85.2
+523,40000524,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,89.2
+524,40000525,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,82.6
+525,40000526,onyx,light cream,12,regular,Century Gothic,4.2,18.0,63.0,left aligned,False,default,default,92.6
+526,40000527,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,94.3
+527,40000528,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,98.8
+528,40000529,onyx,light cream,12,regular,Century Gothic,4.2,18.0,63.0,left aligned,False,default,default,87.8
+529,40000530,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,93.0
+530,40000531,charcoal,linen,24,regular,Century Gothic,2.88,36.0,3.84,default,True,default,default,65.0
+531,40000532,onyx,light cream,12,regular,Century Gothic,4.2,18.0,63.0,left aligned,False,default,default,92.2
+532,40000533,midnight blue,ivory,12,regular,Lexend,1.44,21.0,1.92,left aligned,True,True,True,90.6
+533,40000534,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,91.4
+534,40000535,licorice,pastel light yellow,14,regular,Tahoma,4.9,21.0,73.5,left aligned,False,default,default,76.0
+535,40000536,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,72.6
+536,40000537,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,94.8
+537,40000538,white,red,8,regular,Open Sans,2.55,7.5,30.25,left aligned,False,default,default,57.7
+538,40000539,midnight blue,ivory,12,regular,Lexend,1.44,21.0,1.92,left aligned,True,True,True,91.6
+539,40000540,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,98.4
+540,40000541,charcoal,pastel light blue,15,regular,Trebuchet,5.25,22.5,78.75,left aligned,False,default,default,57.0
+541,40000542,midnight blue,ivory,12,regular,Lexend,1.44,21.0,1.92,left aligned,True,True,True,91.1
+542,40000543,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,95.1
+543,40000544,charcoal,pastel light blue,15,regular,Trebuchet,5.25,22.5,78.75,left aligned,False,default,default,86.2
+544,40000545,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,97.7
+545,40000546,charcoal,linen,24,regular,Century Gothic,2.88,36.0,3.84,default,True,default,default,63.5
+546,40000547,charcoal,pastel light blue,15,regular,Trebuchet,5.25,22.5,78.75,left aligned,False,default,default,88.9
+547,40000548,midnight blue,ivory,12,regular,Lexend,1.44,21.0,1.92,left aligned,True,True,True,94.8
+548,40000549,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,88.2
+549,40000550,licorice,pastel light yellow,14,regular,Tahoma,4.9,21.0,73.5,left aligned,False,default,default,77.9
+550,40000551,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,57.0
+551,40000552,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,88.0
+552,40000553,matte black,light gray,13,regular,Open Sans,4.55,19.5,68.25,left aligned,False,default,default,86.7
+553,40000554,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,84.6
+554,40000555,charcoal,linen,24,regular,Century Gothic,2.88,36.0,3.84,default,True,default,default,88.8
+555,40000556,licorice,pastel light yellow,14,regular,Tahoma,4.9,21.0,73.5,left aligned,False,default,default,73.3
+556,40000557,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,90.6
+557,40000558,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,86.0
+558,40000559,onyx,light cream,12,regular,Century Gothic,4.2,18.0,63.0,left aligned,False,default,default,95.3
+559,40000560,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,94.5
+560,40000561,green,yellow,10,regular,Century Gothic,1.88,15.0,1.84,default,True,default,default,49.6
+561,40000562,onyx,light cream,12,regular,Century Gothic,4.2,18.0,63.0,left aligned,False,default,default,88.9
+562,40000563,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,98.7
+563,40000564,charcoal,linen,24,regular,Century Gothic,2.88,36.0,3.84,default,True,default,default,93.9
+564,40000565,licorice,pastel light yellow,14,regular,Tahoma,4.9,21.0,73.5,left aligned,False,default,default,80.0
+565,40000566,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,98.8
+566,40000567,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,94.4
+567,40000568,white,red,8,regular,Open Sans,2.55,7.5,30.25,left aligned,False,default,default,71.4
+568,40000569,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,92.5
+569,40000570,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,99.0
+570,40000571,matte black,light gray,13,regular,Open Sans,4.55,19.5,68.25,left aligned,False,default,default,97.5
+571,40000572,midnight blue,ivory,12,regular,Lexend,1.44,21.0,1.92,left aligned,True,True,True,71.2
+572,40000573,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,79.5
+573,40000574,licorice,pastel light yellow,14,regular,Tahoma,4.9,21.0,73.5,left aligned,False,default,default,78.6
+574,40000575,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,97.2
+575,40000576,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,83.3
+576,40000577,licorice,pastel light yellow,14,regular,Tahoma,4.9,21.0,73.5,left aligned,False,default,default,75.0
+577,40000578,midnight blue,ivory,12,regular,Lexend,1.44,21.0,1.92,left aligned,True,True,True,96.6
+578,40000579,charcoal,linen,24,regular,Century Gothic,2.88,36.0,3.84,default,True,default,default,82.9
+579,40000580,onyx,light cream,12,regular,Century Gothic,4.2,18.0,63.0,left aligned,False,default,default,98.6
+580,40000581,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,13.6
+581,40000582,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,95.7
+582,40000583,licorice,pastel light yellow,14,regular,Tahoma,4.9,21.0,73.5,left aligned,False,default,default,79.2
+583,40000584,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,87.4
+584,40000585,green,yellow,10,regular,Century Gothic,1.88,15.0,1.84,default,True,default,default,52.7
+585,40000586,charcoal,pastel light blue,15,regular,Trebuchet,5.25,22.5,78.75,left aligned,False,default,default,77.6
+586,40000587,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,85.8
+587,40000588,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,73.6
+588,40000589,matte black,light gray,13,regular,Open Sans,4.55,19.5,68.25,left aligned,False,default,default,73.7
+589,40000590,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,95.2
+590,40000591,green,yellow,10,regular,Century Gothic,1.88,15.0,1.84,default,True,default,default,54.7
+591,40000592,licorice,pastel light yellow,14,regular,Tahoma,4.9,21.0,73.5,left aligned,False,default,default,86.4
+592,40000593,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,47.3
+593,40000594,charcoal,linen,24,regular,Century Gothic,2.88,36.0,3.84,default,True,default,default,84.8
+594,40000595,onyx,light cream,12,regular,Century Gothic,4.2,18.0,63.0,left aligned,False,default,default,91.7
+595,40000596,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,100.0
+596,40000597,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,84.9
+597,40000598,matte black,light gray,13,regular,Open Sans,4.55,19.5,68.25,left aligned,False,default,default,87.4
+598,40000599,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,81.2
+599,40000600,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,99.7
+600,40000601,matte black,light gray,13,regular,Open Sans,4.55,19.5,68.25,left aligned,False,default,default,79.5
+601,40000602,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,24.8
+602,40000603,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,95.9
+603,40000604,matte black,light gray,13,regular,Open Sans,4.55,19.5,68.25,left aligned,False,default,default,73.9
+604,40000605,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,86.7
+605,40000606,green,yellow,10,regular,Century Gothic,1.88,15.0,1.84,default,True,default,default,44.2
+606,40000607,licorice,pastel light yellow,14,regular,Tahoma,4.9,21.0,73.5,left aligned,False,default,default,77.1
+607,40000608,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,77.4
+608,40000609,charcoal,linen,24,regular,Century Gothic,2.88,36.0,3.84,default,True,default,default,84.5
+609,40000610,matte black,light gray,13,regular,Open Sans,4.55,19.5,68.25,left aligned,False,default,default,85.0
+610,40000611,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,93.5
+611,40000612,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,84.3
+612,40000613,charcoal,pastel light blue,15,regular,Trebuchet,5.25,22.5,78.75,left aligned,False,default,default,98.1
+613,40000614,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,73.5
+614,40000615,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,88.0
+615,40000616,white,red,8,regular,Open Sans,2.55,7.5,30.25,left aligned,False,default,default,44.0
+616,40000617,midnight blue,ivory,12,regular,Lexend,1.44,21.0,1.92,left aligned,True,True,True,89.9
+617,40000618,green,yellow,10,regular,Century Gothic,1.88,15.0,1.84,default,True,default,default,51.2
+618,40000619,matte black,light gray,13,regular,Open Sans,4.55,19.5,68.25,left aligned,False,default,default,85.7
+619,40000620,midnight blue,ivory,12,regular,Lexend,1.44,21.0,1.92,left aligned,True,True,True,100.0
+620,40000621,green,yellow,10,regular,Century Gothic,1.88,15.0,1.84,default,True,default,default,39.3
+621,40000622,matte black,light gray,13,regular,Open Sans,4.55,19.5,68.25,left aligned,False,default,default,92.7
+622,40000623,midnight blue,ivory,12,regular,Lexend,1.44,21.0,1.92,left aligned,True,True,True,90.9
+623,40000624,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,94.8
+624,40000625,matte black,light gray,13,regular,Open Sans,4.55,19.5,68.25,left aligned,False,default,default,99.2
+625,40000626,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,94.6
+626,40000627,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,93.7
+627,40000628,onyx,light cream,12,regular,Century Gothic,4.2,18.0,63.0,left aligned,False,default,default,96.1
+628,40000629,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,25.3
+629,40000630,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,89.2
+630,40000631,matte black,light gray,13,regular,Open Sans,4.55,19.5,68.25,left aligned,False,default,default,73.8
+631,40000632,midnight blue,ivory,12,regular,Lexend,1.44,21.0,1.92,left aligned,True,True,True,81.7
+632,40000633,charcoal,linen,24,regular,Century Gothic,2.88,36.0,3.84,default,True,default,default,82.6
+633,40000634,charcoal,pastel light blue,15,regular,Trebuchet,5.25,22.5,78.75,left aligned,False,default,default,84.7
+634,40000635,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,55.4
+635,40000636,green,yellow,10,regular,Century Gothic,1.88,15.0,1.84,default,True,default,default,71.0
+636,40000637,charcoal,pastel light blue,15,regular,Trebuchet,5.25,22.5,78.75,left aligned,False,default,default,72.7
+637,40000638,midnight blue,ivory,12,regular,Lexend,1.44,21.0,1.92,left aligned,True,True,True,76.6
+638,40000639,charcoal,linen,24,regular,Century Gothic,2.88,36.0,3.84,default,True,default,default,86.3
+639,40000640,charcoal,pastel light blue,15,regular,Trebuchet,5.25,22.5,78.75,left aligned,False,default,default,90.1
+640,40000641,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,93.1
+641,40000642,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,98.0
+642,40000643,matte black,light gray,13,regular,Open Sans,4.55,19.5,68.25,left aligned,False,default,default,99.4
+643,40000644,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,29.3
+644,40000645,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,92.7
+645,40000646,matte black,light gray,13,regular,Open Sans,4.55,19.5,68.25,left aligned,False,default,default,78.5
+646,40000647,midnight blue,ivory,12,regular,Lexend,1.44,21.0,1.92,left aligned,True,True,True,91.9
+647,40000648,green,yellow,10,regular,Century Gothic,1.88,15.0,1.84,default,True,default,default,51.1
+648,40000649,onyx,light cream,12,regular,Century Gothic,4.2,18.0,63.0,left aligned,False,default,default,98.0
+649,40000650,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,88.0
+650,40000651,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,94.0
+651,40000652,onyx,light cream,12,regular,Century Gothic,4.2,18.0,63.0,left aligned,False,default,default,94.9
+652,40000653,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,90.8
+653,40000654,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,89.6
+654,40000655,onyx,light cream,12,regular,Century Gothic,4.2,18.0,63.0,left aligned,False,default,default,98.0
+655,40000656,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,5.5
+656,40000657,green,yellow,10,regular,Century Gothic,1.88,15.0,1.84,default,True,default,default,43.9
+657,40000658,matte black,light gray,13,regular,Open Sans,4.55,19.5,68.25,left aligned,False,default,default,77.0
+658,40000659,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,93.5
+659,40000660,charcoal,linen,24,regular,Century Gothic,2.88,36.0,3.84,default,True,default,default,98.7
+660,40000661,onyx,light cream,12,regular,Century Gothic,4.2,18.0,63.0,left aligned,False,default,default,93.2
+661,40000662,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,93.4
+662,40000663,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,77.1
+663,40000664,white,red,8,regular,Open Sans,2.55,7.5,30.25,left aligned,False,default,default,40.9
+664,40000665,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,92.9
+665,40000666,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,92.9
+666,40000667,charcoal,pastel light blue,15,regular,Trebuchet,5.25,22.5,78.75,left aligned,False,default,default,88.2
+667,40000668,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,80.4
+668,40000669,charcoal,linen,24,regular,Century Gothic,2.88,36.0,3.84,default,True,default,default,89.3
+669,40000670,white,red,8,regular,Open Sans,2.55,7.5,30.25,left aligned,False,default,default,55.3
+670,40000671,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,81.7
+671,40000672,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,93.3
+672,40000673,white,red,8,regular,Open Sans,2.55,7.5,30.25,left aligned,False,default,default,54.4
+673,40000674,midnight blue,ivory,12,regular,Lexend,1.44,21.0,1.92,left aligned,True,True,True,74.4
+674,40000675,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,95.0
+675,40000676,charcoal,pastel light blue,15,regular,Trebuchet,5.25,22.5,78.75,left aligned,False,default,default,87.8
+676,40000677,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,51.4
+677,40000678,charcoal,linen,24,regular,Century Gothic,2.88,36.0,3.84,default,True,default,default,85.0
+678,40000679,onyx,light cream,12,regular,Century Gothic,4.2,18.0,63.0,left aligned,False,default,default,88.4
+679,40000680,midnight blue,ivory,12,regular,Lexend,1.44,21.0,1.92,left aligned,True,True,True,85.9
+680,40000681,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,85.9
+681,40000682,white,red,8,regular,Open Sans,2.55,7.5,30.25,left aligned,False,default,default,43.0
+682,40000683,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,85.2
+683,40000684,green,yellow,10,regular,Century Gothic,1.88,15.0,1.84,default,True,default,default,54.5
+684,40000685,white,red,8,regular,Open Sans,2.55,7.5,30.25,left aligned,False,default,default,31.6
+685,40000686,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,42.6
+686,40000687,charcoal,linen,24,regular,Century Gothic,2.88,36.0,3.84,default,True,default,default,89.0
+687,40000688,onyx,light cream,12,regular,Century Gothic,4.2,18.0,63.0,left aligned,False,default,default,95.4
+688,40000689,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,81.2
+689,40000690,charcoal,linen,24,regular,Century Gothic,2.88,36.0,3.84,default,True,default,default,72.0
+690,40000691,white,red,8,regular,Open Sans,2.55,7.5,30.25,left aligned,False,default,default,66.7
+691,40000692,midnight blue,ivory,12,regular,Lexend,1.44,21.0,1.92,left aligned,True,True,True,70.3
+692,40000693,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,88.7
+693,40000694,charcoal,pastel light blue,15,regular,Trebuchet,5.25,22.5,78.75,left aligned,False,default,default,81.9
+694,40000695,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,94.3
+695,40000696,green,yellow,10,regular,Century Gothic,1.88,15.0,1.84,default,True,default,default,39.9
+696,40000697,matte black,light gray,13,regular,Open Sans,4.55,19.5,68.25,left aligned,False,default,default,80.1
+697,40000698,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,1.9
+698,40000699,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,88.4
+699,40000700,white,red,8,regular,Open Sans,2.55,7.5,30.25,left aligned,False,default,default,65.1
+700,40000701,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,81.1
+701,40000702,charcoal,linen,24,regular,Century Gothic,2.88,36.0,3.84,default,True,default,default,76.9
+702,40000703,matte black,light gray,13,regular,Open Sans,4.55,19.5,68.25,left aligned,False,default,default,75.1
+703,40000704,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,7.8
+704,40000705,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,81.1
+705,40000706,matte black,light gray,13,regular,Open Sans,4.55,19.5,68.25,left aligned,False,default,default,76.2
+706,40000707,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,20.8
+707,40000708,charcoal,linen,24,regular,Century Gothic,2.88,36.0,3.84,default,True,default,default,69.6
+708,40000709,matte black,light gray,13,regular,Open Sans,4.55,19.5,68.25,left aligned,False,default,default,74.0
+709,40000710,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,97.9
+710,40000711,green,yellow,10,regular,Century Gothic,1.88,15.0,1.84,default,True,default,default,30.3
+711,40000712,onyx,light cream,12,regular,Century Gothic,4.2,18.0,63.0,left aligned,False,default,default,94.6
+712,40000713,midnight blue,ivory,12,regular,Lexend,1.44,21.0,1.92,left aligned,True,True,True,93.9
+713,40000714,green,yellow,10,regular,Century Gothic,1.88,15.0,1.84,default,True,default,default,43.4
+714,40000715,charcoal,pastel light blue,15,regular,Trebuchet,5.25,22.5,78.75,left aligned,False,default,default,74.3
+715,40000716,midnight blue,ivory,12,regular,Lexend,1.44,21.0,1.92,left aligned,True,True,True,80.4
+716,40000717,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,93.3
+717,40000718,onyx,light cream,12,regular,Century Gothic,4.2,18.0,63.0,left aligned,False,default,default,94.3
+718,40000719,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,26.2
+719,40000720,green,yellow,10,regular,Century Gothic,1.88,15.0,1.84,default,True,default,default,56.7
+720,40000721,charcoal,pastel light blue,15,regular,Trebuchet,5.25,22.5,78.75,left aligned,False,default,default,90.3
+721,40000722,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,98.9
+722,40000723,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,85.1
+723,40000724,matte black,light gray,13,regular,Open Sans,4.55,19.5,68.25,left aligned,False,default,default,96.9
+724,40000725,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,92.8
+725,40000726,charcoal,linen,24,regular,Century Gothic,2.88,36.0,3.84,default,True,default,default,94.1
+726,40000727,charcoal,pastel light blue,15,regular,Trebuchet,5.25,22.5,78.75,left aligned,False,default,default,88.7
+727,40000728,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,99.8
+728,40000729,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,96.8
+729,40000730,onyx,light cream,12,regular,Century Gothic,4.2,18.0,63.0,left aligned,False,default,default,92.5
+730,40000731,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,84.2
+731,40000732,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,85.2
+732,40000733,licorice,pastel light yellow,14,regular,Tahoma,4.9,21.0,73.5,left aligned,False,default,default,78.3
+733,40000734,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,78.0
+734,40000735,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,87.9
+735,40000736,charcoal,pastel light blue,15,regular,Trebuchet,5.25,22.5,78.75,left aligned,False,default,default,88.5
+736,40000737,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,21.6
+737,40000738,green,yellow,10,regular,Century Gothic,1.88,15.0,1.84,default,True,default,default,45.9
+738,40000739,onyx,light cream,12,regular,Century Gothic,4.2,18.0,63.0,left aligned,False,default,default,88.6
+739,40000740,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,13.5
+740,40000741,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,72.4
+741,40000742,onyx,light cream,12,regular,Century Gothic,4.2,18.0,63.0,left aligned,False,default,default,99.5
+742,40000743,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,0.4
+743,40000744,green,yellow,10,regular,Century Gothic,1.88,15.0,1.84,default,True,default,default,31.3
+744,40000745,licorice,pastel light yellow,14,regular,Tahoma,4.9,21.0,73.5,left aligned,False,default,default,81.4
+745,40000746,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,7.5
+746,40000747,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,96.5
+747,40000748,white,red,8,regular,Open Sans,2.55,7.5,30.25,left aligned,False,default,default,58.7
+748,40000749,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,97.9
+749,40000750,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,88.2
+750,40000751,licorice,pastel light yellow,14,regular,Tahoma,4.9,21.0,73.5,left aligned,False,default,default,77.4
+751,40000752,midnight blue,ivory,12,regular,Lexend,1.44,21.0,1.92,left aligned,True,True,True,89.1
+752,40000753,green,yellow,10,regular,Century Gothic,1.88,15.0,1.84,default,True,default,default,67.2
+753,40000754,onyx,light cream,12,regular,Century Gothic,4.2,18.0,63.0,left aligned,False,default,default,94.2
+754,40000755,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,20.9
+755,40000756,green,yellow,10,regular,Century Gothic,1.88,15.0,1.84,default,True,default,default,62.4
+756,40000757,matte black,light gray,13,regular,Open Sans,4.55,19.5,68.25,left aligned,False,default,default,85.1
+757,40000758,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,0.1
+758,40000759,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,81.9
+759,40000760,licorice,pastel light yellow,14,regular,Tahoma,4.9,21.0,73.5,left aligned,False,default,default,77.6
+760,40000761,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,64.2
+761,40000762,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,87.1
+762,40000763,white,red,8,regular,Open Sans,2.55,7.5,30.25,left aligned,False,default,default,47.9
+763,40000764,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,92.1
+764,40000765,green,yellow,10,regular,Century Gothic,1.88,15.0,1.84,default,True,default,default,62.7
+765,40000766,charcoal,pastel light blue,15,regular,Trebuchet,5.25,22.5,78.75,left aligned,False,default,default,96.8
+766,40000767,midnight blue,ivory,12,regular,Lexend,1.44,21.0,1.92,left aligned,True,True,True,99.7
+767,40000768,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,92.6
+768,40000769,licorice,pastel light yellow,14,regular,Tahoma,4.9,21.0,73.5,left aligned,False,default,default,89.1
+769,40000770,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,91.4
+770,40000771,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,95.9
+771,40000772,licorice,pastel light yellow,14,regular,Tahoma,4.9,21.0,73.5,left aligned,False,default,default,76.5
+772,40000773,midnight blue,ivory,12,regular,Lexend,1.44,21.0,1.92,left aligned,True,True,True,80.9
+773,40000774,charcoal,linen,24,regular,Century Gothic,2.88,36.0,3.84,default,True,default,default,74.8
+774,40000775,white,red,8,regular,Open Sans,2.55,7.5,30.25,left aligned,False,default,default,71.3
+775,40000776,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,91.6
+776,40000777,charcoal,linen,24,regular,Century Gothic,2.88,36.0,3.84,default,True,default,default,83.1
+777,40000778,onyx,light cream,12,regular,Century Gothic,4.2,18.0,63.0,left aligned,False,default,default,93.9
+778,40000779,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,55.9
+779,40000780,green,yellow,10,regular,Century Gothic,1.88,15.0,1.84,default,True,default,default,60.2
+780,40000781,charcoal,pastel light blue,15,regular,Trebuchet,5.25,22.5,78.75,left aligned,False,default,default,73.7
+781,40000782,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,31.0
+782,40000783,green,yellow,10,regular,Century Gothic,1.88,15.0,1.84,default,True,default,default,60.1
+783,40000784,matte black,light gray,13,regular,Open Sans,4.55,19.5,68.25,left aligned,False,default,default,94.9
+784,40000785,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,71.9
+785,40000786,green,yellow,10,regular,Century Gothic,1.88,15.0,1.84,default,True,default,default,29.9
+786,40000787,licorice,pastel light yellow,14,regular,Tahoma,4.9,21.0,73.5,left aligned,False,default,default,77.4
+787,40000788,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,70.3
+788,40000789,charcoal,linen,24,regular,Century Gothic,2.88,36.0,3.84,default,True,default,default,82.4
+789,40000790,charcoal,pastel light blue,15,regular,Trebuchet,5.25,22.5,78.75,left aligned,False,default,default,72.2
+790,40000791,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,94.7
+791,40000792,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,90.9
+792,40000793,licorice,pastel light yellow,14,regular,Tahoma,4.9,21.0,73.5,left aligned,False,default,default,81.2
+793,40000794,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,72.7
+794,40000795,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,99.6
+795,40000796,onyx,light cream,12,regular,Century Gothic,4.2,18.0,63.0,left aligned,False,default,default,98.9
+796,40000797,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,92.8
+797,40000798,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,81.7
+798,40000799,charcoal,pastel light blue,15,regular,Trebuchet,5.25,22.5,78.75,left aligned,False,default,default,77.7
+799,40000800,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,34.6
+800,40000801,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,71.7
+801,40000802,white,red,8,regular,Open Sans,2.55,7.5,30.25,left aligned,False,default,default,55.4
+802,40000803,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,29.9
+803,40000804,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,85.3
+804,40000805,matte black,light gray,13,regular,Open Sans,4.55,19.5,68.25,left aligned,False,default,default,94.7
+805,40000806,midnight blue,ivory,12,regular,Lexend,1.44,21.0,1.92,left aligned,True,True,True,92.4
+806,40000807,charcoal,linen,24,regular,Century Gothic,2.88,36.0,3.84,default,True,default,default,97.3
+807,40000808,white,red,8,regular,Open Sans,2.55,7.5,30.25,left aligned,False,default,default,44.3
+808,40000809,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,98.5
+809,40000810,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,96.9
+810,40000811,onyx,light cream,12,regular,Century Gothic,4.2,18.0,63.0,left aligned,False,default,default,92.4
+811,40000812,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,87.0
+812,40000813,green,yellow,10,regular,Century Gothic,1.88,15.0,1.84,default,True,default,default,36.7
+813,40000814,onyx,light cream,12,regular,Century Gothic,4.2,18.0,63.0,left aligned,False,default,default,98.2
+814,40000815,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,72.5
+815,40000816,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,90.4
+816,40000817,white,red,8,regular,Open Sans,2.55,7.5,30.25,left aligned,False,default,default,36.5
+817,40000818,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,92.9
+818,40000819,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,93.2
+819,40000820,onyx,light cream,12,regular,Century Gothic,4.2,18.0,63.0,left aligned,False,default,default,94.3
+820,40000821,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,93.9
+821,40000822,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,56.9
+822,40000823,white,red,8,regular,Open Sans,2.55,7.5,30.25,left aligned,False,default,default,47.2
+823,40000824,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,69.4
+824,40000825,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,80.7
+825,40000826,licorice,pastel light yellow,14,regular,Tahoma,4.9,21.0,73.5,left aligned,False,default,default,87.5
+826,40000827,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,76.6
+827,40000828,charcoal,linen,24,regular,Century Gothic,2.88,36.0,3.84,default,True,default,default,93.5
+828,40000829,onyx,light cream,12,regular,Century Gothic,4.2,18.0,63.0,left aligned,False,default,default,97.3
+829,40000830,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,13.5
+830,40000831,charcoal,linen,24,regular,Century Gothic,2.88,36.0,3.84,default,True,default,default,86.6
+831,40000832,matte black,light gray,13,regular,Open Sans,4.55,19.5,68.25,left aligned,False,default,default,77.0
+832,40000833,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,89.7
+833,40000834,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,90.9
+834,40000835,charcoal,pastel light blue,15,regular,Trebuchet,5.25,22.5,78.75,left aligned,False,default,default,92.0
+835,40000836,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,83.7
+836,40000837,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,98.7
+837,40000838,charcoal,pastel light blue,15,regular,Trebuchet,5.25,22.5,78.75,left aligned,False,default,default,68.2
+838,40000839,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,22.6
+839,40000840,green,yellow,10,regular,Century Gothic,1.88,15.0,1.84,default,True,default,default,53.5
+840,40000841,matte black,light gray,13,regular,Open Sans,4.55,19.5,68.25,left aligned,False,default,default,86.2
+841,40000842,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,89.7
+842,40000843,green,yellow,10,regular,Century Gothic,1.88,15.0,1.84,default,True,default,default,26.5
+843,40000844,matte black,light gray,13,regular,Open Sans,4.55,19.5,68.25,left aligned,False,default,default,94.9
+844,40000845,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,33.9
+845,40000846,green,yellow,10,regular,Century Gothic,1.88,15.0,1.84,default,True,default,default,62.8
+846,40000847,charcoal,pastel light blue,15,regular,Trebuchet,5.25,22.5,78.75,left aligned,False,default,default,89.8
+847,40000848,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,93.0
+848,40000849,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,92.6
+849,40000850,licorice,pastel light yellow,14,regular,Tahoma,4.9,21.0,73.5,left aligned,False,default,default,80.2
+850,40000851,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,98.3
+851,40000852,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,93.1
+852,40000853,matte black,light gray,13,regular,Open Sans,4.55,19.5,68.25,left aligned,False,default,default,63.8
+853,40000854,midnight blue,ivory,12,regular,Lexend,1.44,21.0,1.92,left aligned,True,True,True,92.1
+854,40000855,green,yellow,10,regular,Century Gothic,1.88,15.0,1.84,default,True,default,default,66.0
+855,40000856,white,red,8,regular,Open Sans,2.55,7.5,30.25,left aligned,False,default,default,58.3
+856,40000857,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,89.8
+857,40000858,green,yellow,10,regular,Century Gothic,1.88,15.0,1.84,default,True,default,default,44.4
+858,40000859,white,red,8,regular,Open Sans,2.55,7.5,30.25,left aligned,False,default,default,33.8
+859,40000860,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,26.8
+860,40000861,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,99.0
+861,40000862,licorice,pastel light yellow,14,regular,Tahoma,4.9,21.0,73.5,left aligned,False,default,default,87.1
+862,40000863,midnight blue,ivory,12,regular,Lexend,1.44,21.0,1.92,left aligned,True,True,True,82.9
+863,40000864,green,yellow,10,regular,Century Gothic,1.88,15.0,1.84,default,True,default,default,38.8
+864,40000865,licorice,pastel light yellow,14,regular,Tahoma,4.9,21.0,73.5,left aligned,False,default,default,81.3
+865,40000866,midnight blue,ivory,12,regular,Lexend,1.44,21.0,1.92,left aligned,True,True,True,98.8
+866,40000867,charcoal,linen,24,regular,Century Gothic,2.88,36.0,3.84,default,True,default,default,74.1
+867,40000868,onyx,light cream,12,regular,Century Gothic,4.2,18.0,63.0,left aligned,False,default,default,91.1
+868,40000869,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,94.0
+869,40000870,green,yellow,10,regular,Century Gothic,1.88,15.0,1.84,default,True,default,default,44.7
+870,40000871,charcoal,pastel light blue,15,regular,Trebuchet,5.25,22.5,78.75,left aligned,False,default,default,94.9
+871,40000872,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,75.6
+872,40000873,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,88.7
+873,40000874,onyx,light cream,12,regular,Century Gothic,4.2,18.0,63.0,left aligned,False,default,default,92.0
+874,40000875,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,24.1
+875,40000876,green,yellow,10,regular,Century Gothic,1.88,15.0,1.84,default,True,default,default,43.0
+876,40000877,white,red,8,regular,Open Sans,2.55,7.5,30.25,left aligned,False,default,default,47.5
+877,40000878,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,80.7
+878,40000879,charcoal,linen,24,regular,Century Gothic,2.88,36.0,3.84,default,True,default,default,95.5
+879,40000880,licorice,pastel light yellow,14,regular,Tahoma,4.9,21.0,73.5,left aligned,False,default,default,83.1
+880,40000881,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,96.4
+881,40000882,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,91.5
+882,40000883,white,red,8,regular,Open Sans,2.55,7.5,30.25,left aligned,False,default,default,52.9
+883,40000884,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,97.0
+884,40000885,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,94.4
+885,40000886,matte black,light gray,13,regular,Open Sans,4.55,19.5,68.25,left aligned,False,default,default,84.5
+886,40000887,midnight blue,ivory,12,regular,Lexend,1.44,21.0,1.92,left aligned,True,True,True,93.8
+887,40000888,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,93.0
+888,40000889,onyx,light cream,12,regular,Century Gothic,4.2,18.0,63.0,left aligned,False,default,default,89.1
+889,40000890,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,98.0
+890,40000891,green,yellow,10,regular,Century Gothic,1.88,15.0,1.84,default,True,default,default,42.8
+891,40000892,charcoal,pastel light blue,15,regular,Trebuchet,5.25,22.5,78.75,left aligned,False,default,default,83.8
+892,40000893,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,93.4
+893,40000894,green,yellow,10,regular,Century Gothic,1.88,15.0,1.84,default,True,default,default,47.6
+894,40000895,onyx,light cream,12,regular,Century Gothic,4.2,18.0,63.0,left aligned,False,default,default,95.3
+895,40000896,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,94.0
+896,40000897,charcoal,linen,24,regular,Century Gothic,2.88,36.0,3.84,default,True,default,default,93.7
+897,40000898,licorice,pastel light yellow,14,regular,Tahoma,4.9,21.0,73.5,left aligned,False,default,default,81.6
+898,40000899,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,81.8
+899,40000900,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,86.2
+900,40000901,licorice,pastel light yellow,14,regular,Tahoma,4.9,21.0,73.5,left aligned,False,default,default,84.4
+901,40000902,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,92.3
+902,40000903,charcoal,linen,24,regular,Century Gothic,2.88,36.0,3.84,default,True,default,default,76.5
+903,40000904,onyx,light cream,12,regular,Century Gothic,4.2,18.0,63.0,left aligned,False,default,default,86.8
+904,40000905,midnight blue,ivory,12,regular,Lexend,1.44,21.0,1.92,left aligned,True,True,True,96.3
+905,40000906,charcoal,linen,24,regular,Century Gothic,2.88,36.0,3.84,default,True,default,default,95.7
+906,40000907,matte black,light gray,13,regular,Open Sans,4.55,19.5,68.25,left aligned,False,default,default,77.2
+907,40000908,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,80.1
+908,40000909,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,79.5
+909,40000910,licorice,pastel light yellow,14,regular,Tahoma,4.9,21.0,73.5,left aligned,False,default,default,74.0
+910,40000911,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,98.5
+911,40000912,charcoal,linen,24,regular,Century Gothic,2.88,36.0,3.84,default,True,default,default,68.8
+912,40000913,onyx,light cream,12,regular,Century Gothic,4.2,18.0,63.0,left aligned,False,default,default,99.7
+913,40000914,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,88.0
+914,40000915,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,96.0
+915,40000916,matte black,light gray,13,regular,Open Sans,4.55,19.5,68.25,left aligned,False,default,default,89.4
+916,40000917,midnight blue,ivory,12,regular,Lexend,1.44,21.0,1.92,left aligned,True,True,True,85.0
+917,40000918,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,84.4
+918,40000919,white,red,8,regular,Open Sans,2.55,7.5,30.25,left aligned,False,default,default,60.5
+919,40000920,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,91.9
+920,40000921,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,91.3
+921,40000922,licorice,pastel light yellow,14,regular,Tahoma,4.9,21.0,73.5,left aligned,False,default,default,80.2
+922,40000923,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,34.7
+923,40000924,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,97.0
+924,40000925,licorice,pastel light yellow,14,regular,Tahoma,4.9,21.0,73.5,left aligned,False,default,default,80.7
+925,40000926,midnight blue,ivory,12,regular,Lexend,1.44,21.0,1.92,left aligned,True,True,True,95.1
+926,40000927,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,92.8
+927,40000928,matte black,light gray,13,regular,Open Sans,4.55,19.5,68.25,left aligned,False,default,default,71.5
+928,40000929,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,90.9
+929,40000930,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,80.9
+930,40000931,matte black,light gray,13,regular,Open Sans,4.55,19.5,68.25,left aligned,False,default,default,97.1
+931,40000932,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,86.0
+932,40000933,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,92.1
+933,40000934,white,red,8,regular,Open Sans,2.55,7.5,30.25,left aligned,False,default,default,30.8
+934,40000935,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,83.6
+935,40000936,green,yellow,10,regular,Century Gothic,1.88,15.0,1.84,default,True,default,default,58.7
+936,40000937,matte black,light gray,13,regular,Open Sans,4.55,19.5,68.25,left aligned,False,default,default,83.3
+937,40000938,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,74.2
+938,40000939,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,92.1
+939,40000940,licorice,pastel light yellow,14,regular,Tahoma,4.9,21.0,73.5,left aligned,False,default,default,84.5
+940,40000941,midnight blue,ivory,12,regular,Lexend,1.44,21.0,1.92,left aligned,True,True,True,78.2
+941,40000942,green,yellow,10,regular,Century Gothic,1.88,15.0,1.84,default,True,default,default,33.8
+942,40000943,matte black,light gray,13,regular,Open Sans,4.55,19.5,68.25,left aligned,False,default,default,74.3
+943,40000944,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,89.1
+944,40000945,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,92.8
+945,40000946,onyx,light cream,12,regular,Century Gothic,4.2,18.0,63.0,left aligned,False,default,default,91.8
+946,40000947,midnight blue,ivory,12,regular,Lexend,1.44,21.0,1.92,left aligned,True,True,True,92.7
+947,40000948,green,yellow,10,regular,Century Gothic,1.88,15.0,1.84,default,True,default,default,38.7
+948,40000949,licorice,pastel light yellow,14,regular,Tahoma,4.9,21.0,73.5,left aligned,False,default,default,83.0
+949,40000950,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,92.1
+950,40000951,charcoal,linen,24,regular,Century Gothic,2.88,36.0,3.84,default,True,default,default,76.7
+951,40000952,matte black,light gray,13,regular,Open Sans,4.55,19.5,68.25,left aligned,False,default,default,99.1
+952,40000953,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,89.5
+953,40000954,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,83.1
+954,40000955,charcoal,pastel light blue,15,regular,Trebuchet,5.25,22.5,78.75,left aligned,False,default,default,75.4
+955,40000956,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,80.4
+956,40000957,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,87.6
+957,40000958,onyx,light cream,12,regular,Century Gothic,4.2,18.0,63.0,left aligned,False,default,default,94.2
+958,40000959,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,63.6
+959,40000960,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,96.7
+960,40000961,onyx,light cream,12,regular,Century Gothic,4.2,18.0,63.0,left aligned,False,default,default,90.5
+961,40000962,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,87.1
+962,40000963,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,76.8
+963,40000964,onyx,light cream,12,regular,Century Gothic,4.2,18.0,63.0,left aligned,False,default,default,93.6
+964,40000965,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,92.0
+965,40000966,charcoal,linen,24,regular,Century Gothic,2.88,36.0,3.84,default,True,default,default,79.6
+966,40000967,white,red,8,regular,Open Sans,2.55,7.5,30.25,left aligned,False,default,default,49.3
+967,40000968,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,96.4
+968,40000969,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,74.3
+969,40000970,onyx,light cream,12,regular,Century Gothic,4.2,18.0,63.0,left aligned,False,default,default,98.2
+970,40000971,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,96.5
+971,40000972,green,yellow,10,regular,Century Gothic,1.88,15.0,1.84,default,True,default,default,31.1
+972,40000973,charcoal,pastel light blue,15,regular,Trebuchet,5.25,22.5,78.75,left aligned,False,default,default,96.6
+973,40000974,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,94.1
+974,40000975,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,100.0
+975,40000976,charcoal,pastel light blue,15,regular,Trebuchet,5.25,22.5,78.75,left aligned,False,default,default,76.0
+976,40000977,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,94.4
+977,40000978,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,83.1
+978,40000979,onyx,light cream,12,regular,Century Gothic,4.2,18.0,63.0,left aligned,False,default,default,91.7
+979,40000980,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,95.0
+980,40000981,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,98.8
+981,40000982,onyx,light cream,12,regular,Century Gothic,4.2,18.0,63.0,left aligned,False,default,default,97.3
+982,40000983,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,51.3
+983,40000984,black russian,prim,18,regular,Source Sans Pro,2.16,27.0,2.88,default,True,default,default,89.3
+984,40000985,licorice,pastel light yellow,14,regular,Tahoma,4.9,21.0,73.5,left aligned,False,default,default,87.1
+985,40000986,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,35.1
+986,40000987,green,yellow,10,regular,Century Gothic,1.88,15.0,1.84,default,True,default,default,62.2
+987,40000988,licorice,pastel light yellow,14,regular,Tahoma,4.9,21.0,73.5,left aligned,False,default,default,84.8
+988,40000989,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,76.6
+989,40000990,charcoal,linen,24,regular,Century Gothic,2.88,36.0,3.84,default,True,default,default,90.8
+990,40000991,licorice,pastel light yellow,14,regular,Tahoma,4.9,21.0,73.5,left aligned,False,default,default,68.7
+991,40000992,charcoal,light gray,14,regular,Helvetica,1.68,24.5,2.24,left aligned,True,True,True,79.8
+992,40000993,green,yellow,10,regular,Century Gothic,1.88,15.0,1.84,default,True,default,default,33.9
+993,40000994,matte black,light gray,13,regular,Open Sans,4.55,19.5,68.25,left aligned,False,default,default,88.1
+994,40000995,dark gray,eggshell,16,regular,Open Sans,1.92,28.0,2.56,left aligned,True,True,True,96.5
+995,40000996,green,yellow,10,regular,Century Gothic,1.88,15.0,1.84,default,True,default,default,25.7
+996,40000997,onyx,light cream,12,regular,Century Gothic,4.2,18.0,63.0,left aligned,False,default,default,94.2
+997,40000998,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,True,False,False,76.4
+998,40000999,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,default,True,default,default,90.7
+999,40001000,white,red,8,regular,Open Sans,2.55,7.5,30.25,left aligned,False,default,default,56.9
