@@ -5,7 +5,7 @@ import { StyledAccessibilityOption } from './styles/StyledAccessibilityOption';
 
 function Accessibility() {
     const settings = useSelector((state) => state.settings.value);
-    const [handleChange, handleInputCheckedChange] = useAccessibilityControl();
+    const [handleInputValueChange, handleInputCheckedChange] = useAccessibilityControl();
 
     return (
         <div>
@@ -18,7 +18,7 @@ function Accessibility() {
                         max="5"
                         value={settings.fontSize}
                         name="fontSize"
-                        onInput={handleChange}
+                        onInput={handleInputValueChange}
                     />
                 </div>
             </StyledAccessibilityOption>
@@ -31,7 +31,7 @@ function Accessibility() {
                         max="5"
                         value={settings.wordSpacing}
                         name="wordSpacing"
-                        onInput={handleChange}
+                        onInput={handleInputValueChange}
                     />
                 </div>
             </StyledAccessibilityOption>
@@ -44,7 +44,7 @@ function Accessibility() {
                         max="2"
                         value={settings.letterSpacing}
                         name="letterSpacing"
-                        onInput={handleChange}
+                        onInput={handleInputValueChange}
                     />
                 </div>
             </StyledAccessibilityOption>
@@ -57,7 +57,7 @@ function Accessibility() {
                         max="2.5"
                         value={settings.lineHeight}
                         name="lineHeight"
-                        onInput={handleChange}
+                        onInput={handleInputValueChange}
                     />
                 </div>
             </StyledAccessibilityOption>

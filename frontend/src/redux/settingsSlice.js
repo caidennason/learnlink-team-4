@@ -13,7 +13,7 @@ const settingsSlice = createSlice({
     },
     reducers: {
         updateSettings(state, action) {
-            state.value = action.payload
+            state.value = action.payload;
         }
     }
   });

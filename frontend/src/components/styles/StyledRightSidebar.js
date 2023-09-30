@@ -1,6 +1,6 @@
 import { styled } from 'styled-components';
 
-export const StyledRight = styled.div`
+export const StyledRightSidebar = styled.div`
   grid-area: right;
   width: 20vw;
   background: rgb(242, 242, 242);

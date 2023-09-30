@@ -3,11 +3,12 @@ import { useSelector } from 'react-redux';
 import { Outlet } from "react-router-dom";
 import { StyledLearnLink } from "./styles/StyledLearnLink";
 import { StyledMain } from "./styles/StyledMain";
-import { StyledRight } from "./styles/StyledRight";
+import { StyledRightSidebar } from "./styles/StyledRightSidebar";
 import Nav from "./Nav";
 import Card from "./Card";
 import testImg from "../images/testImage.jpg"
 import settingsSlice from "../redux/settingsSlice";
+import Signup from "./Signup";
 
 function Layout() {
     const settings = useSelector((state) => state.settings.value);
@@ -20,7 +21,9 @@ function Layout() {
             <StyledMain>
                 <Outlet />
             </StyledMain>
-            <StyledRight />
+            <StyledRightSidebar>
+                <Signup />
+            </StyledRightSidebar>
         </StyledLearnLink>
     );
 }
