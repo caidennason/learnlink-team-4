@@ -163,7 +163,7 @@ cython_debug/
 #.idea/
 
 # Disabilities Tables since this is protected health information
-data/Disabilities_Table.csv
+data/disabilities_table.csv
 
 # Other
 old/
